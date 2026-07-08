@@ -1,0 +1,5 @@
+{
+  "title": "llama.cpp Book",
+  "description": "Understanding llama.cpp inference",
+  "plugins": ["katex"]
+}

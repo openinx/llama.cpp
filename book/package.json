@@ -1,0 +1,19 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "A short guide to understanding how [llama.cpp](https://github.com/ggml-org/llama.cpp) runs large language models locally.",
+  "main": "index.js",
+  "scripts": {
+    "install:gitbook": "gitbook install",
+    "serve": "gitbook serve . --port 4000",
+    "build": "gitbook build ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@gitbook-ng/gitbook": "^3.3.6",
+    "gitbook-plugin-katex": "^1.1.4"
+  }
+}
